@@ -32,7 +32,7 @@ spec:
       serviceAccountName: cjoc
       containers:
       - name: dpierrelouis-atl
-        image: gcr.io/core-workshop/helloworld-nodejs:dpierrelouis-atl-4
+        image: gcr.io/core-workshop/helloworld-nodejs:dpierrelouis-atl-5
         resources:
           requests:
             memory: "100Mi"
